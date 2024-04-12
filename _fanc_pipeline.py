@@ -1,4 +1,4 @@
-#!/home/juyoung/anaconda3/envs/FANC/bin/python
+
 
 """
 The purpose of this python3 script is to process hi-c data using fan-c 
